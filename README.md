@@ -1,5 +1,6 @@
 # UG2+ Track2: ATMOSPHERIC TURBULENCE MITIGATION
 This is the code used for 2023 CVPR UG2+ TRACK2: Atmospheric Turbulence Mitigation.
+<img width="864" alt="image" src="https://github.com/xsqhust/Turbulence_Removal/blob/main/figs/zhengshu.png">
 
 Track Link：https://cvpr2023.ug2challenge.org/track2.html
 
