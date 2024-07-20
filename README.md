@@ -22,7 +22,7 @@ The Turbulence Dataset can be downloaded from https://cvpr2023.ug2challenge.org/
 <img width="864" alt="image" src="https://github.com/xsqhust/Turbulence_Removal/blob/main/figs/comparison1.png">
 
 ## Subtrack2.2： Method and Visual Results
-<img width="864" alt="image" src="https://github.com/xsqhust/Turbulence_Removal/blob/main/figs/2023TARGET.gif">
+<img width="864" alt="image" src="https://github.com/xsqhust/Turbulence_Removal/blob/main/figs/2023Target.gif">
 <img width="864" alt="image" src="https://github.com/xsqhust/Turbulence_Removal/blob/main/figs/method.png">
 <img width="864" alt="image" src="https://github.com/xsqhust/Turbulence_Removal/blob/main/figs/comparison2.png">
 
